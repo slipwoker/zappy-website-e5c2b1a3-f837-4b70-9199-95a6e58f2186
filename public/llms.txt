@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://barel-the-legend-e5c2b1a3.zappy5.app
+https://example.com
 מחפש ספר גברים קרוב אליך? ב-Barel The Legend תקבל תספורת מנצחת, אווירה יוקרתית ושירות אישי שישאיר אותך חד ומטופח. בוא ליהנות מחוויית גברית אמיתית — קבע תור עכשיו.
 
 ### שירותים
-https://barel-the-legend-e5c2b1a3.zappy5.app/services
+https://example.com/services
 מעבר לתספורת: גילוח מדויק, עיצוב זקן וטיפוח גברי ברמה אחרת. ב-Barel The Legend כל שירות מותאם אישית כדי להוציא ממך את הגרסה החדה והבטוחה ביותר. גלה מה מחכה לך.
 
 ### גלריה
-https://barel-the-legend-e5c2b1a3.zappy5.app/gallery
+https://example.com/gallery
 גלול בין התספורות הכי חדות בעיר. הגלריה של Barel The Legend מציגה עבודות עיצוב שיער וזקן מוקפדות שיתנו לך השראה ללוק הבא שלך. תראה, תבחר, תכבוש.
 
 ### אודות
-https://barel-the-legend-e5c2b1a3.zappy5.app/about
+https://example.com/about
 ב-Barel The Legend אנחנו לא מסתפקים בתספורת טובה — אנחנו בונים ביטחון. גלה את החזון, הצוות והתשוקה שמאחורי מותג הספרים היוקרתי שכבש את העיר. היכרות קצרה, רושם ענק.
 
 ### צור קשר
-https://barel-the-legend-e5c2b1a3.zappy5.app/contact
+https://example.com/contact
 הכיסא מחכה לך. צור קשר עם Barel The Legend, קבע תור בקלות ובוא לחוות תספורת גברים שלא דומה לשום דבר שהכרת. השאר פרטים או התקשר — ונתחיל לעבוד על הלוק החדש שלך.
 
 ### Products
-https://barel-the-legend-e5c2b1a3.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Barel The Legend
 
 ### Product Detail
-https://barel-the-legend-e5c2b1a3.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Barel The Legend
 
 ### Category
-https://barel-the-legend-e5c2b1a3.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Barel The Legend
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://barel-the-legend-e5c2b1a3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://barel-the-legend-e5c2b1a3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://barel-the-legend-e5c2b1a3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -82,8 +82,8 @@ Barbershop
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://barel-the-legend-e5c2b1a3.zappy5.app/sitemap.xml
-- Robots: https://barel-the-legend-e5c2b1a3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://barel-the-legend-e5c2b1a3.zappy5.app/llms-full.txt
-- Products (JSON): https://barel-the-legend-e5c2b1a3.zappy5.app/products.json
-- Products (Google Merchant RSS): https://barel-the-legend-e5c2b1a3.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
